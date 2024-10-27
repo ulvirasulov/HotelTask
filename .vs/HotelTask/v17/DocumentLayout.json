@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ulvir\\source\\repos\\HotelTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262637CA-342C-4FF3-8448-3D1F0C9B9DBD}|HotelTask\\HotelTask.csproj|c:\\users\\ulvir\\source\\repos\\hoteltask\\hoteltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262637CA-342C-4FF3-8448-3D1F0C9B9DBD}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262637CA-342C-4FF3-8448-3D1F0C9B9DBD}|HotelTask\\HotelTask.csproj|c:\\users\\ulvir\\source\\repos\\hoteltask\\hoteltask\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262637CA-342C-4FF3-8448-3D1F0C9B9DBD}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262637CA-342C-4FF3-8448-3D1F0C9B9DBD}|HotelTask\\HotelTask.csproj|c:\\users\\ulvir\\source\\repos\\hoteltask\\hoteltask\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262637CA-342C-4FF3-8448-3D1F0C9B9DBD}|HotelTask\\HotelTask.csproj|solutionrelative:hoteltask\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\source\\repos\\HotelTask\\HotelTask\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ulvir\\source\\repos\\HotelTask\\HotelTask\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "HotelTask\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:33:59.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\source\\repos\\HotelTask\\HotelTask\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\ulvir\\source\\repos\\HotelTask\\HotelTask\\Models\\Room.cs",
+              "RelativeToolTip": "HotelTask\\Models\\Room.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:52:09.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ulvir\\source\\repos\\HotelTask\\HotelTask\\Program.cs",
+              "RelativeDocumentMoniker": "HotelTask\\Program.cs",
+              "ToolTip": "C:\\Users\\ulvir\\source\\repos\\HotelTask\\HotelTask\\Program.cs",
+              "RelativeToolTip": "HotelTask\\Program.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAmwIoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:05:37.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

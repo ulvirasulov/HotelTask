@@ -1,0 +1,14 @@
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\bin\Debug\net8.0\HotelTask.exe
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\bin\Debug\net8.0\HotelTask.deps.json
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\bin\Debug\net8.0\HotelTask.runtimeconfig.json
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\bin\Debug\net8.0\HotelTask.dll
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\bin\Debug\net8.0\HotelTask.pdb
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.AssemblyInfoInputs.cache
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.AssemblyInfo.cs
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.csproj.CoreCompileInputs.cache
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.dll
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\obj\Debug\net8.0\refint\HotelTask.dll
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.pdb
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\obj\Debug\net8.0\HotelTask.genruntimeconfig.cache
+C:\Users\ulvir\source\repos\HotelTask\HotelTask\obj\Debug\net8.0\ref\HotelTask.dll
